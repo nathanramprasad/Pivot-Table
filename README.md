@@ -1,6 +1,6 @@
 # Pivot-Table
 ## Background
-Using pivot tables to display table information about car inventory to simplify analysis and make data faster to analyze
+Using data from a table displaying car inventory and creating different Pivot tables to display information in a more organized and easier to read manner. This allowing the ability to gather specific types of information more precisely
 ## Sheet 1: Car Inventory
 This sheet contains the table used to create the Pivot tables in the later sheets. Tihs table displays the make and model of cars in inventory. Along with that it also contains the color and mileage of each vehicle. It also displays the price point that each vehicle is intended to sell for along with how much each vehicle cost to purchase.
 ## Sheet 2: Count by Make and Model
